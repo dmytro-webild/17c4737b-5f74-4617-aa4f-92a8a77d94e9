@@ -153,7 +153,7 @@ export default function LandingPage() {
         {
           id: "t1",
           name: "Alice M.",
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -173,7 +173,7 @@ export default function LandingPage() {
         {
           id: "t5",
           name: "Elena V.",
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg?_wi=2",
         },
       ]}
       cardTitle="Client Success"
