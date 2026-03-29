@@ -111,7 +111,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "t1",          name: "Alice M.",          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg"},
+          id: "t1",          name: "Alice M.",          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg?_wi=1"},
         {
           id: "t2",          name: "David L.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-successful-businessman-posing-outside_74855-2003.jpg"},
         {
@@ -119,7 +119,7 @@ export default function LandingPage() {
         {
           id: "t4",          name: "James K.",          imageSrc: "http://img.b2bpic.net/free-photo/smiley-woman-drinking-coffee_23-2148415807.jpg"},
         {
-          id: "t5",          name: "Elena V.",          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg"},
+          id: "t5",          name: "Elena V.",          imageSrc: "http://img.b2bpic.net/free-photo/positive-shaved-head-male-dressed-grey-suit-dark-grey-background_613910-11352.jpg?_wi=2"},
       ]}
       cardTitle="Client Success"
       cardTag="Trusted by 50+ clients"
